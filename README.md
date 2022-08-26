@@ -2,8 +2,8 @@
 ## Installation
 #### Source
 ```
-git clone https://github.com/ultima-fi/aptos-tools.git
-cd aptos-tools/aptest
+git clone https://github.com/ultima-fi/aptest.git
+cd aptest
 cargo build --release
 ```
 #### Cargo & Binary
